@@ -1,0 +1,13 @@
+/*added properties to elements as given in assignment*/
+body {
+	background-color: blue;
+}
+
+header h1 {
+	color: white;
+}
+
+/*added color white by calling class title*/
+.title {
+	color: white;
+}
